@@ -33,7 +33,16 @@ enum HTTPMethod2: String {
     case PATCH
     case DELETE
 }
+
 enum HTTPMethod3: String {
+    case GET
+    case POST
+    case PUT
+    case PATCH
+    case DELETE
+}
+
+enum HTTPMethod4: String {
     case GET
     case POST
     case PUT
