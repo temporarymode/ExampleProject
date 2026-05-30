@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Mode Academy")
+        print("Mode2")
     }
 }
 
