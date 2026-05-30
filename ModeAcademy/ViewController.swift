@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         
         print("Mode Academy")
         print("Mode2")
+        print("Mode3")
     }
 }
 
