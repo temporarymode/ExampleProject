@@ -25,3 +25,18 @@ enum HTTPMethod: String {
     case PATCH
     case DELETE
 }
+
+enum HTTPMethod2: String {
+    case GET
+    case POST
+    case PUT
+    case PATCH
+    case DELETE
+}
+enum HTTPMethod3: String {
+    case GET
+    case POST
+    case PUT
+    case PATCH
+    case DELETE
+}
